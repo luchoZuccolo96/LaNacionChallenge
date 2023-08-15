@@ -12,7 +12,10 @@ La solución está organizada en las siguientes capas:
 
 ## Cómo Levantar el Proyecto Localmente
 Clona este repositorio: git clone https://github.com/luchoZuccolo96/LaNacionChallenge.git
-Ejecuta la aplicación usando el comando: dotnet run --project LaNacionChallenge.Presentation
+Ejecuta la aplicación usando el comando: 
+```
+dotnet run --project ChallengeLaNacion
+```
 La API se ejecutará localmente en http://localhost:5000.
 
 ## Configuración de la Base de Datos
