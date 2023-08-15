@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6X7X0maSLkkXhn2kW86+tAd+BOZhjSkpXzRTE8y9CQpxib6hZEQ83wzEKiAkYOspfTJvpwpDZ8TiGYmfrkBoUw==",
+  "dgSpecHash": "ZoK/4WmTc1ChHZrCrK4/2C5A01DCEnFgOsrytngCYIJVt0QoXG/xYMvaIcdD5fSwVyxrKjZ04kFzPslEt/zNsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lzuccolo\\Desktop\\Bolso\\Yo\\2023\\La Nacion\\Tests\\Tests.csproj",
+  "projectFilePath": "C:\\Users\\lzuccolo\\Desktop\\Bolso\\Yo\\2023\\LaNacionChallenge\\LaNacionChallenge\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lzuccolo\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\lzuccolo\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",

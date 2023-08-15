@@ -7228,11 +7228,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lzuccolo\\Desktop\\Bolso\\Yo\\2023\\La Nacion\\Tests\\Tests.csproj",
+      "projectUniqueName": "C:\\Users\\lzuccolo\\Desktop\\Bolso\\Yo\\2023\\LaNacionChallenge\\LaNacionChallenge\\Tests\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "C:\\Users\\lzuccolo\\Desktop\\Bolso\\Yo\\2023\\La Nacion\\Tests\\Tests.csproj",
+      "projectPath": "C:\\Users\\lzuccolo\\Desktop\\Bolso\\Yo\\2023\\LaNacionChallenge\\LaNacionChallenge\\Tests\\Tests.csproj",
       "packagesPath": "C:\\Users\\lzuccolo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lzuccolo\\Desktop\\Bolso\\Yo\\2023\\La Nacion\\Tests\\obj\\",
+      "outputPath": "C:\\Users\\lzuccolo\\Desktop\\Bolso\\Yo\\2023\\LaNacionChallenge\\LaNacionChallenge\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lzuccolo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7249,8 +7249,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\lzuccolo\\Desktop\\Bolso\\Yo\\2023\\La Nacion\\ChallengeLaNacion\\ChallengeLaNacion.csproj": {
-              "projectPath": "C:\\Users\\lzuccolo\\Desktop\\Bolso\\Yo\\2023\\La Nacion\\ChallengeLaNacion\\ChallengeLaNacion.csproj"
+            "C:\\Users\\lzuccolo\\Desktop\\Bolso\\Yo\\2023\\LaNacionChallenge\\LaNacionChallenge\\ChallengeLaNacion\\ChallengeLaNacion.csproj": {
+              "projectPath": "C:\\Users\\lzuccolo\\Desktop\\Bolso\\Yo\\2023\\LaNacionChallenge\\LaNacionChallenge\\ChallengeLaNacion\\ChallengeLaNacion.csproj"
             }
           }
         }

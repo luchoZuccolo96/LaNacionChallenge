@@ -19,7 +19,7 @@ La API está documentada utilizando Swagger, lo que te permite explorar y probar
 
 Ingresar a: http://localhost:5000/swagger
 ##Endpoints de la API
-A continuación los endpoints disponibles en la API:
+A continuación, se presentan algunos de los endpoints disponibles en la API:
 
 GET /api/contact/all
 Este endpoint devuelve todos los contactos disponibles.

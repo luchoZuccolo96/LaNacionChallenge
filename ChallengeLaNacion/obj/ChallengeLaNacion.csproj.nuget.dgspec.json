@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lzuccolo\\Desktop\\Bolso\\Yo\\2023\\La Nacion\\ChallengeLaNacion\\ChallengeLaNacion.csproj": {}
+    "C:\\Users\\lzuccolo\\Desktop\\Bolso\\Yo\\2023\\LaNacionChallenge\\LaNacionChallenge\\ChallengeLaNacion\\ChallengeLaNacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lzuccolo\\Desktop\\Bolso\\Yo\\2023\\La Nacion\\ChallengeLaNacion\\ChallengeLaNacion.csproj": {
+    "C:\\Users\\lzuccolo\\Desktop\\Bolso\\Yo\\2023\\LaNacionChallenge\\LaNacionChallenge\\ChallengeLaNacion\\ChallengeLaNacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lzuccolo\\Desktop\\Bolso\\Yo\\2023\\La Nacion\\ChallengeLaNacion\\ChallengeLaNacion.csproj",
+        "projectUniqueName": "C:\\Users\\lzuccolo\\Desktop\\Bolso\\Yo\\2023\\LaNacionChallenge\\LaNacionChallenge\\ChallengeLaNacion\\ChallengeLaNacion.csproj",
         "projectName": "ChallengeLaNacion",
-        "projectPath": "C:\\Users\\lzuccolo\\Desktop\\Bolso\\Yo\\2023\\La Nacion\\ChallengeLaNacion\\ChallengeLaNacion.csproj",
+        "projectPath": "C:\\Users\\lzuccolo\\Desktop\\Bolso\\Yo\\2023\\LaNacionChallenge\\LaNacionChallenge\\ChallengeLaNacion\\ChallengeLaNacion.csproj",
         "packagesPath": "C:\\Users\\lzuccolo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lzuccolo\\Desktop\\Bolso\\Yo\\2023\\La Nacion\\ChallengeLaNacion\\obj\\",
+        "outputPath": "C:\\Users\\lzuccolo\\Desktop\\Bolso\\Yo\\2023\\LaNacionChallenge\\LaNacionChallenge\\ChallengeLaNacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lzuccolo\\AppData\\Roaming\\NuGet\\NuGet.Config",

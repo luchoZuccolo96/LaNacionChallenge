@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lONevaVqD94oX+RN76xbcgn5v5y4eQw6Ra/F0aGYEmiNAOygbXmAsBd4E7ajbvNFwx/DjNjpbNRQK0F6VpEj1w==",
+  "dgSpecHash": "fWifAYMkHHGCwZgw2EwUlwh83JZ9T+yUmuwt6ThhokVAhAjAP/qcUtq6jHTwQlHuAOHsQRZtDR0HB5A4NaEw0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lzuccolo\\Desktop\\Bolso\\Yo\\2023\\La Nacion\\ChallengeLaNacion\\ChallengeLaNacion.csproj",
+  "projectFilePath": "C:\\Users\\lzuccolo\\Desktop\\Bolso\\Yo\\2023\\LaNacionChallenge\\LaNacionChallenge\\ChallengeLaNacion\\ChallengeLaNacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lzuccolo\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\lzuccolo\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
