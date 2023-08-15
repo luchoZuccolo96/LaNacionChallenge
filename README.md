@@ -31,6 +31,9 @@ Ubica la sección ConnectionStrings y ajusta los valores según tu configuració
 ## Uso de Swagger
 La API está documentada utilizando Swagger, lo que te permite explorar y probar los endpoints de manera interactiva.
 
+## Postman
+Junto a la entrega del repositorio, les voy a compartir una coleccion de Postman creada para poder probar los endpoints, junto con documentacion como los request y bodys necesarios para cada endpoint.
+
 Ingresar a: http://localhost:5000/swagger
 ## Endpoints de la API
 A continuación los endpoints disponibles en la API:
