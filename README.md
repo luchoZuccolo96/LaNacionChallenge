@@ -15,6 +15,19 @@ Clona este repositorio: git clone https://github.com/luchoZuccolo96/LaNacionChal
 Ejecuta la aplicación usando el comando: dotnet run --project LaNacionChallenge.Presentation
 La API se ejecutará localmente en http://localhost:5000.
 
+## Configuración de la Base de Datos
+La aplicación utiliza MySQL como motor de base de datos. Para configurar la conexión a la base de datos y realizar cambios locales, sigue estos pasos:
+
+Abre el archivo appsettings.json en la raíz del proyecto.
+
+Ubica la sección ConnectionStrings y ajusta los valores según tu configuración local:
+
+```json
+"ConnectionStrings": {
+  "MyDbConnection": "Server=localhost;Port=3306;Database=NombreDeTuBaseDeDatos;Uid=TuUsuario;Pwd=TuContraseña;"
+}
+```
+
 ## Uso de Swagger
 La API está documentada utilizando Swagger, lo que te permite explorar y probar los endpoints de manera interactiva.
 
@@ -42,3 +55,5 @@ Busca registros por correo electrónico o número de teléfono.
 
 GET /api/contact/find-by-state-or-city?searchValue={valor}
 Busca registros por estado o ciudad.
+
+### Toda la demas informacion esta en un .doc dentro del repo.
